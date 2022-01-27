@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Chips.png"><SubTexture name="Chips idle0000" x="1540" y="0" width="580" height="1184" frameX="-358" frameY="-104" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips idle0001" x="2120" y="0" width="590" height="1177" frameX="-360" frameY="-112" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips idle0002" x="658" y="1193" width="609" height="1140" frameX="-337" frameY="-150" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips idle0003" x="1267" y="1193" width="617" height="1139" frameX="-337" frameY="-152" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips left0000" x="0" y="2359" width="1002" height="1136" frameX="-165" frameY="-109" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips left0001" x="2710" y="0" width="992" height="1137" frameX="-171" frameY="-105" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips down0000" x="2710" y="1137" width="625" height="1134" frameX="-345" frameY="-178" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips down0001" x="1002" y="2359" width="625" height="1102" frameX="-345" frameY="-215" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips up0000" x="1884" y="1193" width="658" height="1139" frameX="-277" frameY="-225" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips up0001" x="0" y="1193" width="658" height="1166" frameX="-277" frameY="-186" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips right0000" x="0" y="0" width="768" height="1193" frameX="-340" frameY="-110" frameWidth="1296" frameHeight="1505" />
+<SubTexture name="Chips right0001" x="768" y="0" width="772" height="1190" frameX="-346" frameY="-114" frameWidth="1296" frameHeight="1505" />
+</TextureAtlas>

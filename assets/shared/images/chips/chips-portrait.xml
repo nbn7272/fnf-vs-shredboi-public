@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chips-portrait.png"><SubTexture name="chips-portrait bitch0000" x="0" y="0" width="558" height="815" frameX="395" frameY="0" frameWidth="571" frameHeight="815" />
+</TextureAtlas>
